@@ -1,8 +1,7 @@
 ###############################################################################
 #  Program Name  : ex7.py
 #  Author         : Alex Sawatsky 
-#  Task           : (Write a program that asks the user for their age, 
-# if too old it prints you are too old, 
+#  Task           : (Write a program that asks the user for their age, if too old it prints you are too old, 
 # if young prints you are too young) 
 # program also asks for two numbers and prints the larger one 
 ###############################################################################

@@ -1,24 +1,11 @@
 ###############################################################################
 #  Program Name   : ex11.py
 #  Author         : Alex Sawatsky 
-#  Task           : (Ask the user to say their name and after print a 
-# number 3 times itself)
+#  Task           : (Ask the user to say their name and after print a number 3 times itself)
 ###############################################################################
 
 
-def greet () :
-    print("Hello")
+def about_me(name, age):
+        print(f"My name is {name} and I am {age} years old.")
 
-greet ()
-
-def greet(Alex):
-    print("Hello",Alex)
-
-greet("Alex")
-
-def square(x) :
-    return x*x 
-
-print(square(3))
-
-     
+about_me("Alex", 16) 
